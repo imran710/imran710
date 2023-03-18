@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imran24434710@gmail.com**
 
-- ⚡ Fun fact **Have fun**
+- ⚡ Fun fact **I Always Have fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
