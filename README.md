@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Asp.Net Core,Rdlc,Asp.Net Core MVC**
 
-- 💬 Ask me about **Asp.Net Core,Rdlc,Asp.Net Core MVC**
+- 💬 Ask me about **Asp.Net Core,Apache Kafka,Rdlc,Asp.Net Core MVC,Oracle,Mysql,Angular Js**
 
 - 📫 How to reach me **imran24434710@gmail.com**
 
