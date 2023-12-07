@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Sheikh</h1>
-<h3 align="center">Software Engineer at Genuine Technology & Research Ltd. Currently, I'm working on ASP.NET Core.</h3>
+<h3 align="center">Software Engineer at Prime Tech Solutions Ltd. Currently, I'm working on ASP.NET Core.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran710&label=Profile%20views&color=0e75b6&style=flat" alt="imran710" /> </p>
 
