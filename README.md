@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran710&label=Profile%20views&color=0e75b6&style=flat" alt="imran710" /> </p>
 
-- 🔭 I’m currently working on **Hr_Recruitment**
+- 🔭 I’m currently working on **ASP .NET**
 
 - 🌱 I’m currently learning **Asp.Net Core,Rdlc,Asp.Net Core MVC**
 
